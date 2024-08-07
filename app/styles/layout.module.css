@@ -1,0 +1,24 @@
+/* styles/Layout.module.css */
+.container {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #f4f4f4;
+  }
+  
+  .nav {
+    background: #333;
+    color: #fff;
+    padding: 1rem;
+  }
+  
+  .nav a {
+    margin-right: 1rem;
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  main {
+    padding: 2rem;
+  }
+  
